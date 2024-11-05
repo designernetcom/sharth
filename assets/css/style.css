@@ -1103,14 +1103,15 @@ a.ca-sec-primary-3 span {
     content: "";
     height: 14px;
     width: 2px;
-    background: #0E47A1;
+    /* background: #0E47A1; */
     top: 9px;
     left: 12px;
 }
 .ca-sec-content-3 p {
-    color: #5A5D63;
-    font-size: 16px;
+    color: #000;
+    font-size: 18px;
     line-height: 24px;
+    align-items: center;
 }
 
 
@@ -2290,10 +2291,10 @@ header.header-4 {
 ============================================ */
 .ca-section-subtitle {
     display: inline-block;
-    font-size: 16px;
+    font-size: 32px;
     line-height: 16px;
     font-weight: 400;
-    padding: 8px 12px;
+    padding: 15px 15px;
     padding-left: 22px;
 }
 .subtitle-bg-1:after {
@@ -6295,14 +6296,14 @@ button.ca-btn-primary.ca-btn-primary-2 span {
 }
 
 .ca-ph-content {
-    background: #0E47A1;
+    background: #00a2e6;
     border-radius: 50px;
     padding: 10px 16px;
     display: inline-flex;
 }
 
 .ca-ph-ic span {
-    background: #2B5DAC;
+    background: #00a2e6;
     height: 32px;
     width: 32px;
     display: block;
