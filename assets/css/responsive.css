@@ -83,6 +83,9 @@
 
 /* MD Device : 768px */
 @media (min-width:768px) and (max-width:991px){
+    .ca-hero-area-1{
+        padding-top: 100px;
+    }
     br{
         display: none;
     }
@@ -158,6 +161,7 @@
         box-shadow: none;
         padding: 15px 0;
     }
+    
     header.header-area-3.stiky .header-3 {
         box-shadow: none;
         padding: 15px 0;
